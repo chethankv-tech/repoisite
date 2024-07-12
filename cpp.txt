@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+void mergesort() {
+
+}
+
 int main() {
     cout<<"Hello World"<<end;
     return 0;
